@@ -20,8 +20,5 @@ Managed by Maven see [pom.xml](https://gitlab.tech.orange/device-management-a-r/
 * OWL API (version 5.1.15)
 * HermiT (version 1.4.3.517)
 * Openllet (version 2.6.5 )
-        
-    
-## Contact
- * e-mail: amal.guittoum@orange.com
+
 
