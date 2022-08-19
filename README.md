@@ -6,15 +6,13 @@ This code implements a semantic-based approach to infer IoT dependencies between
 ## Build
 This project is build as any JAVA project (JAVA 11), dependencies are managed by Maven.
 
-## Evaluation Results
-[Numerical Evaluation results presented in the quantitative evaluation ](https://github.com/Orange-OpenSource/ISWC-ReasoningCode/blob/master/EvaluationResults.xlsx)
+
 ## License
  
  
  This software is distributed under the GNU Affero General Public License v3.0 only,
  the text of which is available at https://spdx.org/licenses/AGPL-3.0-only.html
-
-Copyright (c) 2022 Orange
+ 
 
 ## Dependencies
 Managed by Maven see [pom.xml](https://gitlab.tech.orange/device-management-a-r/recherche/these/these_collaborative_iot_dm/reasonningcode/-/blob/main/pom.xml)
